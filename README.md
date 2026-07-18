@@ -50,8 +50,7 @@ This project analyzes an online retail sales dataset using Power BI to identify 
 - README.md
 
 ## Dashboard Preview
-
-[Dashboard](Business_Sales_Dashboard.png)
+(Business_Sales_Dashboard.png)
 
 ## Author
 **Lakshmi Haasitha**
