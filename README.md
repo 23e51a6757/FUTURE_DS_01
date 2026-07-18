@@ -45,7 +45,7 @@ This project analyzes an online retail sales dataset using Power BI to identify 
 
 ## Repository Contents
 - Business_sales_dashboard.pbix
-- Dashboard_Screenshot.png
+- Business_Sales_Dashboard.png
 - Business_Report.pdf (if applicable)
 - README.md
 
